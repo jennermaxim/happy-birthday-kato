@@ -1319,3 +1319,11 @@ audio {
     		-webkit-transform: scale(0.9);
     	}
     }*/
+
+	.footer{
+		text-align: center;
+		bottom: 0;
+		position: fixed;
+		right: 0;
+		margin: 10px;
+	}
